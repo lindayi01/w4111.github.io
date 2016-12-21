@@ -1,0 +1,42 @@
+\begin{thebibliography}{1}
+
+\bibitem{astrahan1976system}
+M.~M. Astrahan, M.~W. Blasgen, D.~D. Chamberlin, K.~P. Eswaran, J.~N. Gray,
+  P.~P. Griffiths, W.~F. King, R.~A. Lorie, P.~R. McJones, J.~W. Mehl, et~al.
+\newblock System r: relational approach to database management.
+\newblock {\em ACM Transactions on Database Systems (TODS)}, 1(2):97--137,
+  1976.
+
+\bibitem{bayer2002organization}
+R.~Bayer and E.~McCreight.
+\newblock Organization and maintenance of large ordered indexes.
+\newblock 1972.
+
+\bibitem{codd1970relational}
+E.~F. Codd.
+\newblock A relational model of data for large shared data banks.
+\newblock {\em Communications of the ACM}, 13(6):377--387, 1970.
+
+\bibitem{lorie1979access}
+R.~A. Lorie and J.~F. Nilsson.
+\newblock An access specification language for a relational data base system.
+\newblock {\em IBM journal of Research and Development}, 23(3):286--298, 1979.
+
+\bibitem{selinger1979access}
+P.~G. Selinger, M.~M. Astrahan, D.~D. Chamberlin, R.~A. Lorie, and T.~G. Price.
+\newblock Access path selection in a relational database management system.
+\newblock In {\em Proceedings of the 1979 ACM SIGMOD international conference
+  on Management of data}, pages 23--34. ACM, 1979.
+
+\bibitem{stonebraker1976design}
+M.~Stonebraker, G.~Held, E.~Wong, and P.~Kreps.
+\newblock The design and implementation of ingres.
+\newblock {\em ACM Transactions on Database Systems (TODS)}, 1(3):189--222,
+  1976.
+
+\bibitem{taylor1976codasyl}
+R.~W. Taylor and R.~L. Frank.
+\newblock Codasyl data-base management systems.
+\newblock {\em ACM Computing Surveys (CSUR)}, 8(1):67--103, 1976.
+
+\end{thebibliography}

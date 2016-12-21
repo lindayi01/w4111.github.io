@@ -1,3 +1,8 @@
+---
+layout: page
+title: Index
+---
+
 # W4111 Spring 2016 Syllabus (Section 002)
 
 Goal
